@@ -1,0 +1,15 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("1. Fold the paper into half vertically");
+    System.out.println("2.Unfold the paper and fold the top 2 corners into the line in the center"); 
+    System.out.println("3.Fold the peak toward you but leave some space");
+    System.out.println("4.Fold both top corners into the center line");
+    System.out.println("5.Fold the tip over the 2 flaps at the center line");
+    System.out.println("6.Fold the plane half away from you");
+    System.out.println("7.Fold the wings down from the bottom of the plan");
+    System.out.println("8.Flod up the sides of each wing");
+    System.out.println("9.If you want you can cut two small slits at the back of the wing");
+    System.out.println("10.Add double side tape to the inside of the plane");
+
+  }
+}

@@ -1,0 +1,6 @@
+class Main {
+  public static void main(String[] args) {
+  System.out.println("1. Get the Ingredients you need to make a cookie\n2.Sift dry/n3.Cream Butter and Sugar.\n4.Beats in Eggs\n5.Add Dry Ingredients to wet\n6.Fold in Chips or Nuts\n7.Shape Cookie/n8.Bake and cool");
+
+  }
+}

@@ -1,0 +1,15 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.print("Hello world!\nAnd now");
+    System.out.print("\t\t\tAnd now...");
+    System.out.println("");
+    System.out.println("Let's start coding.");
+    System.out.print("To be");
+    System.out.print("or not to be.");
+    System.out.print("that is");
+    System.out.println("the question.");
+    System.out.print("This is");
+    System.out.print("For the whole family!");
+  
+  }
+}

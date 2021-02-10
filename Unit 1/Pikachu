@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Pikachu welcome youto the world");
+    System.out.println("\\___/");
+    System.out.println("(o^ . ^)");
+    System.out.println("z(__\")(\"))");
+  }
+}
